@@ -2,7 +2,7 @@
 
 <!-- HEADER BANNER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Telco%20Customer%20Intelligence&fontSize=38&fontColor=58a6ff&fontAlignY=38&desc=Churn%20Propensity%20%26%20Revenue%20Analytics%20Pipeline&descAlignY=60&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=header&text=Telco%20Customer%20Intelligence&fontSize=38&fontColor=58a6ff&fontAlignY=38" width="100%"/>
 
 <!-- BADGES ROW 1 -->
 <p>
@@ -126,10 +126,10 @@ The pipeline mirrors real-world enterprise telecom environments — a clean, aud
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 <details>
-<summary><strong>⚙️ &nbsp;1 · KPI Governance & Metric Layer (SQL)</strong></summary>
+<summary><strong> &nbsp;KPI Governance & Metric Layer (SQL)</strong></summary>
 
 <br/>
 
@@ -145,15 +145,15 @@ A powerful SQL metric layer transforming raw technical data into high-value comm
 </details>
 
 <details>
-<summary><strong>🤖 &nbsp;2 · Churn Propensity Modeling (Python / scikit-learn)</strong></summary>
+<summary><strong> &nbsp; Churn Propensity Modeling (Python / scikit-learn)</strong></summary>
 
 <br/>
 
 Advanced ML focused on **Customer Affinity Detection**:
 
-- 🌲 **Random Forest Classification** — uncovers behavioral patterns preceding churn
-- 🎯 **Churn Propensity Score** (0.0 – 1.0) assigned to every active subscriber
-- 📋 Prioritized **Marketing Target List** with **Next-Best-Action** recommendations:
+-  **Random Forest Classification** — uncovers behavioral patterns preceding churn
+-  **Churn Propensity Score** (0.0 – 1.0) assigned to every active subscriber
+- Prioritized **Marketing Target List** with **Next-Best-Action** recommendations:
   - `"Immediate Outbound Call"` → high-value, high-risk
   - `"Retention Offer"` → mid-risk, contractual
   - `"Monitor"` → low-risk, stable
@@ -161,7 +161,7 @@ Advanced ML focused on **Customer Affinity Detection**:
 </details>
 
 <details>
-<summary><strong>🌐 &nbsp;3 · Connectivity Infrastructure — ngrok TCP Tunnel</strong></summary>
+<summary><strong> &nbsp; Connectivity Infrastructure — ngrok TCP Tunnel</strong></summary>
 
 <br/>
 
@@ -180,7 +180,7 @@ ngrok tcp 1433
 </details>
 
 <details>
-<summary><strong>📊 &nbsp;4 · CEO Strategic Dashboards (Looker Studio)</strong></summary>
+<summary><strong> &nbsp; CEO Strategic Dashboards (Looker Studio)</strong></summary>
 
 <br/>
 
@@ -219,7 +219,7 @@ telco-customer-intelligence/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -271,7 +271,7 @@ Point your Looker Studio SQL Server connector to the ngrok endpoint and open the
 
 **Moses Bargue Kortu, Jr.**
 
-*Data Engineer · ML Practitioner · Telecom Analytics Specialist*
+*Analytics Engineer · ML Practitioner · Telecom Analytics Specialist*
 
 <br/>
 
